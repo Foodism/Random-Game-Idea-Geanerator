@@ -1,0 +1,25 @@
+# Random-Game-Idea-Geanerator
+This is a Random Game Idea generator that I made because I was running out of Ideas, (If you don't know how to code in Python I'll show you how you can add more categories in the TXT provided).
+
+//////////////////////////
+1. HOW TO ADD CATEGORIES:/
+//////////////////////////
+  
+  go to the line that says "print" ON LINE 60 (AT BOTTOM)
+  go inside of the parentheses and copy this code sample into the end with a space at the beginning:
+    
+    + ' PROMPT ' + YOURSTANDIN[f / 2 + r / 2]       
+    
+    YOURSTANDIN should be replaced with the stand in that you're using, LATER (REFER TO CUSTOM CATEGORIES SECTION):
+    
+  Then you want to enter your Prompt, to do this, replace the feild that says PROMPT, Example -------- ' they don't like to '
+                                                                                                       ' the character is  '
+                                                                                                       ' they are motivated by '
+                                                       
+ // CUSTOM CATEGORIES //
+ 
+  First you need to enter 20 words / Phrases that could go at the end of the Prompt that you entered before in the quotations in either of the categories labelled first through     tenth EXAMPLE: 'dance', 'sing', 'live', 'grind' ETCETERRA 
+                
+  
+  After that you should be good to go!
+    
